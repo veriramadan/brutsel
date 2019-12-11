@@ -9,7 +9,7 @@ $pkg install php
 
 $pkg install git
 
-$git clone https://github.com/bangnaga1/brutsel.git
+$git clone https://github.com/veriramadan/brutsel
 
 
 
